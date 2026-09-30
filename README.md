@@ -116,7 +116,7 @@ This repository demonstrates each layer.
                      └────────────────┘
 ```
 
----
+--- 
 
 ## 4. Agentic RAG Workflow
 
@@ -541,5 +541,6 @@ Uploads a document and adds its chunks to Pinecone.
 
 ---
 
-#   E n t e r p r i s e - I T - S u p p o r t - A g e n t i c - R A G - C o p i l o t  
+#   E n t e r p r i s e - I T - S u p p o r t - A g e n t i c - R A G - C o p i l o t 
+ 
  
